@@ -17,3 +17,9 @@ person.sayHello = function() {
 person.sayHello();
 // TODO 6 : Create an Array of likes:
 person.likes = ["Music", "Food", "Stuff"];
+// TODO 7 : Create a function on person that prints all of the things the person likes:
+person.saylikes  = function() {
+  console.log("I like: ");
+  for (index in this.likes){
+    console.log("\t" + this.likes[index]);
+  }
