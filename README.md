@@ -7,7 +7,7 @@ A blurb about my lesson...
 ### On runnable.com:
 Create a new node app, and from the terminal, enter or cut and paste the following commands, then press enter or return:
     
-    git clone https://github.com/myuser/my-lesson.git spark && spark/setup.sh
+    git clone https://github.com/haroldrobinson/harolds-js-lesson.git spark && spark/setup.sh
     
 ...some text will fly by as the repository is cloned locally and the project is setup.
 
