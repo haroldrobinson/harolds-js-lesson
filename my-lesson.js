@@ -9,3 +9,5 @@
 // TODO 5 : Create a function that prints the firstName and city of the person:
 
 // TODO 6 : Create an Array of likes:
+
+// TODO 7 : Create a function on person that prints all of the things the person likes:
