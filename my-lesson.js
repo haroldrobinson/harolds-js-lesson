@@ -10,4 +10,3 @@
 
 // TODO 6 : Create an Array of likes:
 
-// TODO 7 : Create a function on person that prints all of the things the person likes:
