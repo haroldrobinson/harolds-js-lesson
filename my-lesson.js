@@ -1,6 +1,11 @@
-#!/usr/bin/env node
+// TODO 1 : Create a variable called welcomeMessage and assign it a string
 
-// TODO 1 : Here, leave a todo instruction for your student for step one of your lesson
+// TODO 2 : Create a variable called person of type Object using the Object literal syntax:
 
+// TODO 3 : Add firstName properties to our person:
 
-// TODO 2 : Here, leave the next todo instruction for your student for step one of your lesson, etc
+// TODO 4 : Add the city property using Array syntax:
+
+// TODO 5 : Create a function that prints the firstName and city of the person:
+
+// TODO 6 : Create an Array of likes:
